@@ -76,35 +76,39 @@ Este proyecto implementa múltiples sistemas avanzados:
 ## 📦 Contenido del Proyecto
 
 - **Versión Web**: Disponible en [itch.io](https://odreman.itch.io/mario-jr)
-- **Ejecutable local**: `Ejecutable/MarioJr2.app` - Versión compilada para macOS
-- **Video explicativo**: [Ver en YouTube](https://youtu.be/W0n-ux1MltI)
 
 ## 🎨 Mejoras Implementadas
 
 Esta versión V2 incluye mejoras significativas respecto a la versión original:
 
 ### R1: Sistema de Animaciones
+
 - Múltiples animaciones del personaje (idle, walk, jump, run, shoot, die, etc.)
 - Transiciones fluidas entre estados
 
 ### R2: Sistema de Partículas
+
 - Efectos visuales en las banderas
 - Partículas para mejorar la experiencia visual
 
 ### R3: Inteligencia Artificial
+
 - Enemigos con IA que persiguen al jugador
 - Sistema de detección de rango de visión
 - Comportamientos diferenciados por tipo de enemigo
 
 ### R4: Sistema de Disparo
+
 - Implementación completa de disparos cuando el personaje está en estado gigante
 - Sistema de proyectiles con física
 
 ### R5: Sistema de Checkpoints
+
 - Banderas que marcan puntos de respawn
 - Sistema de guardado de posición
 
 ### R6: Organización del Código
+
 - Uso extensivo de Tags y Layers para mejor organización
 - Arquitectura modular y escalable
 
@@ -122,4 +126,4 @@ Este proyecto demuestra la evolución en el desarrollo de videojuegos, implement
 
 **Desarrollado por Odreman Ferrer**
 
-*Este proyecto forma parte de mi portafolio de desarrollo de videojuegos. El código fuente y assets propietarios no están incluidos por razones de derechos de autor.*
+*Assets propietarios no están incluidos por razones de derechos de autor.*

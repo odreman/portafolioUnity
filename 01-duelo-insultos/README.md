@@ -42,7 +42,6 @@ Una vez iniciado el juego, el turno se selecciona de forma aleatoria. En funció
 ## 📦 Contenido del Proyecto
 
 - **Versión Web**: Disponible en [itch.io](https://odreman.itch.io/duelo-insultos)
-- **Ejecutable local**: `Compilado/Build/` - Versión compilada para WebGL
 
 ## 🎨 Detalles de Diseño
 
@@ -57,4 +56,4 @@ El juego fue diseñado para mantener la esencia del juego original de Monkey Isl
 
 **Desarrollado por Odreman Ferrer**
 
-*Este proyecto forma parte de mi portafolio de desarrollo de videojuegos. El código fuente y assets propietarios no están incluidos por razones de derechos de autor.*
+*El código fuente y assets propietarios no están incluidos por razones de derechos de autor.*

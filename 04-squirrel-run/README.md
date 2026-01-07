@@ -102,9 +102,6 @@ Este proyecto implementa un sistema completo de juego con múltiples caracterís
 
 - **Versión Web**: Disponible en [itch.io](https://odreman.itch.io/squirrel-run)
 - **Ejecutable local**: `Executable/SquirrelRun.app` - Versión compilada para macOS
-- **Videos de demostración**:
-  - [Video 1](https://youtu.be/BGC1niLjVcs)
-  - [Video 2](https://youtu.be/qLMI7TN4HC8)
 
 ## 🎯 Objetivos del Proyecto
 
@@ -135,5 +132,4 @@ El juego fue diseñado para ofrecer una experiencia completa de aventura y plata
 
 **Desarrollado por Odreman Ferrer**
 
-*El código fuente y assets propietarios no están incluidos por razones de derechos de autor. Los elementos gráficos fueron adquiridos en Envato Market.*
-
+*Los elementos gráficos fueron adquiridos en Envato Market.*
